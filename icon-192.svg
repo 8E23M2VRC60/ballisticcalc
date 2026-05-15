@@ -1,0 +1,10 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer thick plate -->
+  <circle cx="96" cy="96" r="88" stroke="#f4f4f5" stroke-width="18"/>
+  <!-- Middle ring -->
+  <circle cx="96" cy="96" r="52" stroke="#f4f4f5" stroke-width="10"/>
+  <!-- Center hit zone -->
+  <circle cx="96" cy="96" r="22" stroke="#f4f4f5" stroke-width="8"/>
+  <!-- Subtle inner highlight -->
+  <circle cx="96" cy="96" r="88" stroke="#18181b" stroke-width="5" opacity="0.5"/>
+</svg>
